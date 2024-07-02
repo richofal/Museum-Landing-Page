@@ -50,14 +50,14 @@ body {
 }
 
 #title-head h1 {
-    font-weight: 700; /* Memberikan ketebalan pada teks judul */
-    font-size: 4rem; /* Ukuran teks judul */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Efek bayangan untuk meningkatkan kontras */
+    font-weight: 700;
+    font-size: 4rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 #title-head p {
-    color: #354259; /* Warna teks judul */
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); /* Efek bayangan untuk meningkatkan kontras */
+    color: #354259;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 
